@@ -137,9 +137,16 @@
 
   ## ⚡XP.track()
   <!--START_SECTION:waka-->
-  ```text
-  ```
-  <!--END_SECTION:waka-->
+
+```txt
+CSS           3 hrs 21 mins         ████████▒░░░░░░░░░░░░░░░░   32.76 %
+TypeScript    2 hrs 12 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
+Markdown      57 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+Git Config    39 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+XAML          37 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+```
+
+<!--END_SECTION:waka-->
 
   <br/>
   
