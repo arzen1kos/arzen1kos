@@ -1,22 +1,22 @@
 <div align="center">
-  <img width="170" height="188" alt="icon" src="https://github.com/user-attachments/assets/08b6a667-68b2-48a2-b045-c8ff373e2fa3" />
-
+  
 ```
-       _   __  _      ___  _    _   _      
-  /\  |_) (_  |_ |\ |  |  |_   | \ |_ \  / 
- /--\ | \ __) |_ | \| _|_ |_ o |_/ |_  \/  
-                                           
+ █████╗ ██████╗ ███████╗███████╗███╗   ██╗██╗██╗  ██╗ ██████╗ ███████╗
+██╔══██╗██╔══██╗╚══███╔╝██╔════╝████╗  ██║██║██║ ██╔╝██╔═══██╗██╔════╝
+███████║██████╔╝  ███╔╝ █████╗  ██╔██╗ ██║██║█████╔╝ ██║   ██║███████╗
+██╔══██║██╔══██╗ ███╔╝  ██╔══╝  ██║╚██╗██║██║██╔═██╗ ██║   ██║╚════██║
+██║  ██║██║  ██║███████╗███████╗██║ ╚████║██║██║  ██╗╚██████╔╝███████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 ```
-  `[ AI Security Engineer ]`
   
    ✦ _per aspera ad astra_  ✦
 
   `~⟢~`
 
-  <br/>
-  <br/>
-
   [![Website](https://img.shields.io/badge/Projects-View%20on%20GitHub%20Pages-181717?style=for-the-badge&logo=github)](arzen1kos.github.io)
+
+  <br/>
+  <br/>
 
   ## 🧭 ACTIVE_QUEST.log()
   Current side quests, experiments, and things consuming my weekends.
