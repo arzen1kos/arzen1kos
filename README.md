@@ -23,25 +23,20 @@
 
   <table>
     <tr>
-      <td><img width="100" height="100" alt="prometheus-app-logo" src="https://github.com/user-attachments/assets/2a33a655-abf0-47b1-8439-e02193796613" />
-</td>
-      <td><img width="100" height="100" alt="F2B4DE19-EF5D-4871-952E-6744115967A4" src="https://github.com/user-attachments/assets/52d4ec59-129a-4127-9c12-8be466fa8d49" />
-</td>
-      <td><img width="100" height="100" alt="bureaucracy-navigator-app-logo" src="https://github.com/user-attachments/assets/be0ad1b8-31af-48d6-8808-806c4ed9c773" />
-</td>
-      <td><img width="100" height="100" alt="whakaara-logo-app" src="https://github.com/user-attachments/assets/f80d36c0-1ea9-4e77-bff6-e052400bab79" />
-</td>
-      <td><img width="100" height="100" alt="job-goblin-app-logo" src="https://github.com/user-attachments/assets/07bf58f0-e579-404b-a6bd-435df3811633" />
-</td>
-      <td><img width="100" height="100" alt="1fcdc1a5-e1fd-4565-91bd-57828387e4d2" src="https://github.com/user-attachments/assets/57853555-6ab6-4c8e-ae0a-e1b37a03b0a7" />
+      <td><img width="100" height="100" alt="prometheus-app-logo" src="https://github.com/user-attachments/assets/2a33a655-abf0-47b1-8439-e02193796613" /></td>
+      <td><img width="100" height="100" alt="eyeball-maze-logo" src="https://github.com/user-attachments/assets/671bd7fb-493b-414d-bbfc-fe08e747d965" /></td>
+      <td><img width="100" height="100" alt="kronos-app-logo" src="https://github.com/user-attachments/assets/52d4ec59-129a-4127-9c12-8be466fa8d49" /></td>
+      <td><img width="100" height="100" alt="job-goblin-app-logo" src="https://github.com/user-attachments/assets/07bf58f0-e579-404b-a6bd-435df3811633" /></td>
+      <td><img width="100" height="100" alt="orbitlens-app-logo" src="https://github.com/user-attachments/assets/07e84aba-6df2-425b-9e6c-988c82a64a6a" /></td>
+      <td><img width="100" height="100" alt="nightfall-app-logo" src="https://github.com/user-attachments/assets/57853555-6ab6-4c8e-ae0a-e1b37a03b0a7" />
 </td>
     </tr>
     <tr align="center">
       <td><a href="https://github.com/arzen1kos/prostate-care">Prometheus</a></td>
+      <td><a href="https://github.com/arzen1kos/eyeball-maze">Eyeball Maze 🔒︎</a></td>
       <td><a href="https://github.com/arzen1kos/roster-agent">KronOS 🔒︎</a></td>
-      <td><a href="https://github.com/arzen1kos/bureaucracy-navigator">Kafka 🔒︎</a></td>
-      <td><a href="https://github.com/arzen1kos/morning-briefer">Whakaara 🔒︎</a></td>
       <td><a href="https://github.com/arzen1kos/job-application-tracking-agent">JobGoblin 🔒︎</a></td>
+      <td><a href="https://github.com/arzen1kos/orbitlens">Orbitlens 🔒︎</a></td>
       <td><a href="https://github.com/arzen1kos/nightfall-game">Nightfall 🔒︎</a></td>
     </tr>
   </table>
