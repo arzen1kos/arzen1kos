@@ -19,7 +19,7 @@ jobs:
 
           SHOW_TITLE: false
           SHOW_UPDATED_DATE: true
-          TIME_RANGE: last_30_days
+          TIME_RANGE: last_7_days
           CODE_LANG: txt
           BLOCKS: ░▒▓█
 
