@@ -143,9 +143,25 @@
   </table>
     
 <!--START_SECTION:waka-->
+
+```txt
+From: 26 September 2026 - To: 26 October 2026
+
+Total Time: 71 hrs 45 mins
+
+Astro                              19 hrs 10 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
+Markdown                           16 hrs 32 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
+TypeScript                         7 hrs 55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+JSON                               5 hrs 32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+CSS                                5 hrs 14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+Other                              2 hrs 55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+C#                                 2 hrs 31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Git Config                         2 hrs 18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Bash                               2 hrs 6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+YAML                               1 hr 55 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
-```
-  <!--END_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
   <br/>
 
