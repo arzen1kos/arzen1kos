@@ -135,20 +135,20 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2026 - To: 25 October 2026
+From: 26 September 2026 - To: 26 October 2026
 
-Total Time: 62 hrs 22 mins
+Total Time: 71 hrs 45 mins
 
-Markdown                           15 hrs 35 mins        ██████░░░░░░░░░░░░░░░░░░░   23.87 %
-Astro                              13 hrs 44 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
-TypeScript                         6 hrs 9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
-CSS                                5 hrs 5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-JSON                               4 hrs 41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-Other                              2 hrs 55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-C#                                 2 hrs 31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Git Config                         2 hrs 17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-Bash                               2 hrs 2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-YAML                               1 hr 55 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Astro                              19 hrs 10 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
+Markdown                           16 hrs 32 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
+TypeScript                         7 hrs 55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+JSON                               5 hrs 32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+CSS                                5 hrs 14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+Other                              2 hrs 55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+C#                                 2 hrs 31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Git Config                         2 hrs 18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Bash                               2 hrs 6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+YAML                               1 hr 55 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->
