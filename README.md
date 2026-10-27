@@ -165,42 +165,28 @@ YAML                               1 hr 55 mins          ▓░░░░░░�
 
   <br/>
 
+  ## 🏆 ACHIEVEMENTS.unlock()
 
-  <details>
-    <summary><h2>🏆 ACHIEVEMENTS.unlock()</h2></summary>
-    <table>
+  <table>
     <tr align="center" width="300">
-      <td><img height="100" width="100" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"></td>
-      <td><img height="100" width="100" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"></td>
-      <td><img height="100" width="100" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"></td>
+      <td><img title="Azure AI Apps and Agents Developer Associate" height="70" width="70" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"></td>
+      <td><img title="Azure Cloud and AI Security Engineer Associate" height="70" width="70" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"></td>
+      <td><img title="Azure SQL AI Developer Associate" height="70" width="70" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"></td>
+      <td><img title="Azure AI Fundamentals" height="70" width="70" src="https://learn.microsoft.com/en-nz/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"></td>
+      <td><img title="Azure Cybersecurity Fundamentals" height="70" width="70" src="https://learn.microsoft.com/en-nz/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"></td>
+      <td><img title="Azure Cloud Fundamentals" height="70" width="70" src="https://learn.microsoft.com/en-nz/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"></td>
+      <td><img title="CompTIA IT Fundamentals" height="70" width="70" src="https://imgs.search.brave.com/IYv2zTIfNSKhb682861m8RlMTzJ2kqqgSJ7kBc-LLWo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvYTQ5/YmU5M2EtMzRmZi00/MjI0LTk5NmMtYjJj/OTc2YTVkYzlkL2Js/b2I"></td>
     </tr>
     <tr align="center">
-      <td>🔄️ Azure AI Apps and Agents Developer Associate<br/>(AI-103)</td>
-      <td>🔄️ Azure Cloud and AI Security Engineer Associate<br/>(SC-500)</td>
-      <td>🔄️ Azure SQL AI Developer Associate<br/>(DP-800)</td>
-    </tr>
-    <tr align="center">
-      <td><img height="100" width="100" src="https://learn.microsoft.com/en-nz/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"></td>
-      <td><img height="100" width="100" src="https://learn.microsoft.com/en-nz/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"></td>
-      <td><img height="100" width="100" src="https://learn.microsoft.com/en-nz/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"></td>
-    </tr>
-    <tr align="center">
-      <td>✅ Azure AI Fundamentals<br/>(AI-901)</td>
-      <td>✅ Azure Cybersecurity Fundamentals<br/>(SC-900)</td>
-      <td>✅ Azure Cloud Fundamentals<br/>(AZ-900)</td>
-    </tr>
-    <tr align="center">
-      <td><img height="100" width="100" src="https://imgs.search.brave.com/IYv2zTIfNSKhb682861m8RlMTzJ2kqqgSJ7kBc-LLWo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvYTQ5/YmU5M2EtMzRmZi00/MjI0LTk5NmMtYjJj/OTc2YTVkYzlkL2Js/b2I"></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr align="center">
-      <td>✅ CompTIA IT Fundamentals<br/>(ITF+)</td>
-      <td></td>
-      <td></td>
+      <td>🔄️ AI-103</td>
+      <td>🔄️ SC-500</td>
+      <td>🔄️ DP-800</td>
+      <td>✅ AI-901</td>
+      <td>✅ SC-900</td>
+      <td>✅ AZ-900</td>
+      <td>✅ ITF+</td>
     </tr>
   </table>
-  </details>
 
   <br/>
   <hr/>
