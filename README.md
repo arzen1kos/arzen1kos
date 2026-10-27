@@ -9,14 +9,11 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 ```
   
-   ✦ _per aspera ad astra_  ✦
-
-  `~⟢~`
+   `✦ per aspera ad astra  ✦`
 
   [![Website](https://img.shields.io/badge/Projects-View%20on%20GitHub%20Pages-181717?style=for-the-badge&logo=github)](arzen1kos.github.io)
 
-  <br/>
-  <br/>
+  ────────── ⋆⋅~⟢~⋅⋆ ──────────
 
   ## 🧭 ACTIVE_QUEST.log()
   Current side quests, experiments, and things consuming my weekends.
@@ -132,66 +129,79 @@
   <br/>
 
   ## ⚡XP.track()
-  <!--START_SECTION:waka-->
 
-```txt
-From: 26 September 2026 - To: 26 October 2026
-
-Total Time: 71 hrs 45 mins
-
-Astro                              19 hrs 10 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
-Markdown                           16 hrs 32 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
-TypeScript                         7 hrs 55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-JSON                               5 hrs 32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-CSS                                5 hrs 14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
-Other                              2 hrs 55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-C#                                 2 hrs 31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Git Config                         2 hrs 18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Bash                               2 hrs 6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-YAML                               1 hr 55 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-```
-
-<!--END_SECTION:waka-->
-
-  <br/>
-  
-  ## 🏆 ACHIEVEMENTS.unlock()
   <table>
-    <tr>
-      <td>Certification</td>
-      <td>Status</td>
+    <tr align="center">
+      <td><img src="https://github-stats-extended.vercel.app/api?username=arzen1kos&rank_icon=github&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent&card_height=200">
+      </td>
+      <td>
+      <img src="https://streak-stats.demolab.com?user=arzen1kos&theme=transparent&hide_border=true&short_numbers=true&mode=weekly&card_height=180">
+      </td>
+      <td><img src="https://github-stats-extended.vercel.app/api/top-langs?username=arzen1kos&layout=donut&langs_count=4&theme=transparent">
+      </td>
     </tr>
     <tr>
-      <td>Azure AI Apps and Agents Developer Associate (AI-103)</td>
-      <td>🔄️ In Progress</td>
+      <td colspan="3">
+      <!--START_SECTION:waka-->
+      <code>
+        From: 26 September 2026 - To: 26 October 2026
+        Total Time: 71 hrs 45 mins
+        Astro                              19 hrs 10 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
+        Markdown                           16 hrs 32 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
+        TypeScript                         7 hrs 55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+        JSON                               5 hrs 32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+        CSS                                5 hrs 14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+        Other                              2 hrs 55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+        C#                                 2 hrs 31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+        Git Config                         2 hrs 18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+        Bash                               2 hrs 6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+        YAML                               1 hr 55 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+      </code>
+      <!--END_SECTION:waka-->
+      </td>
     </tr>
-    <tr>
-      <td>Azure Cloud and AI Security Engineer Associate (SC-500)</td>
-      <td>🔄️ In Progress</td>
-    </tr>
-    <tr>
-      <td>Azure SQL AI Developer Associate (DP-800)</td>
-      <td>🔄️ In Progress</td>
-    </tr>
-    <tr>
-      <td>Azure AI Fundamentals (AI-901)</td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
-      <td>Azure Cybersecurity Fundamentals (SC-900)</td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
-      <td>Azure Fundamentals (AZ-900)</td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
-      <td>CompTIA IT Fundamentals (ITF+)</td>
-      <td>✅ Completed</td>
-    </tr>      
   </table>
 
   <br/>
+
+  <details>
+    <summary><h2>🏆 ACHIEVEMENTS.unlock()</h2></summary>
+    <table>
+    <tr align="center" width="300">
+      <td><img height="100" width="100" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"></td>
+      <td><img height="100" width="100" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"></td>
+      <td><img height="100" width="100" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"></td>
+    </tr>
+    <tr align="center">
+      <td>🔄️ Azure AI Apps and Agents Developer Associate<br/>(AI-103)</td>
+      <td>🔄️ Azure Cloud and AI Security Engineer Associate<br/>(SC-500)</td>
+      <td>🔄️ Azure SQL AI Developer Associate<br/>(DP-800)</td>
+    </tr>
+    <tr align="center">
+      <td><img height="100" width="100" src="https://learn.microsoft.com/en-nz/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"></td>
+      <td><img height="100" width="100" src="https://learn.microsoft.com/en-nz/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"></td>
+      <td><img height="100" width="100" src="https://learn.microsoft.com/en-nz/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"></td>
+    </tr>
+    <tr align="center">
+      <td>✅ Azure AI Fundamentals<br/>(AI-901)</td>
+      <td>✅ Azure Cybersecurity Fundamentals<br/>(SC-900)</td>
+      <td>✅ Azure Cloud Fundamentals<br/>(AZ-900)</td>
+    </tr>
+    <tr align="center">
+      <td><img height="100" width="100" src="https://imgs.search.brave.com/IYv2zTIfNSKhb682861m8RlMTzJ2kqqgSJ7kBc-LLWo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvYTQ5/YmU5M2EtMzRmZi00/MjI0LTk5NmMtYjJj/OTc2YTVkYzlkL2Js/b2I"></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr align="center">
+      <td>✅ CompTIA IT Fundamentals<br/>(ITF+)</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+  </details>
+
+  <br/>
+  <hr/>
   <br/>
 
   ```
@@ -221,6 +231,11 @@ YAML                               1 hr 55 mins          ▓░░░░░░�
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   ```
-</div
 
+────────── ⋆⋅☆⋅⋆ ──────────
 
+𝔭𝔢𝔯 𝔞𝔰𝔭𝔢𝔯𝔞 𝔞𝔡 𝔞𝔰𝔱𝔯𝔞
+
+_through hardships to the stars_
+
+</div>
