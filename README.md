@@ -22,29 +22,36 @@
 
   <table>
     <tr>
-      <td><a href="https://github.com/arzenik0s/workforce-orchestration-agentic-system"><img width="100" height="100" alt="kronos-app-logo" src="https://github.com/user-attachments/assets/52d4ec59-129a-4127-9c12-8be466fa8d49" /></a></td>
-      <td><a href="https://github.com/arzenik0s/job-application-tracking-agent"><img width="100" height="100" alt="job-goblin-app-logo" src="https://github.com/user-attachments/assets/07bf58f0-e579-404b-a6bd-435df3811633" /></a></td>
-      <td><a href="https://github.com/arzenik0s/3d-satellite-globe"><img width="100" height="100" alt="orbitlens-app-logo" src="https://github.com/user-attachments/assets/07e84aba-6df2-425b-9e6c-988c82a64a6a" /></a></td>
-      <td><a href="https://github.com/arzenik0s/nightfall-game"><img width="100" height="100" alt="nightfall-app-logo" src="https://github.com/user-attachments/assets/57853555-6ab6-4c8e-ae0a-e1b37a03b0a7" /></a></td>
-      <td><a href="https://github.com/arzenik0s/eyeball-maze"><img width="100" height="100" alt="eyeball-maze-logo" src="https://github.com/user-attachments/assets/671bd7fb-493b-414d-bbfc-fe08e747d965" /></a></td>
+      <td><a href="https://github.com/arzenik0s/workforce-orchestration-agentic-system"><img width="100" height="100" alt="kronos-app-logo" title="Kronos | Roster Orchestration Agent" src="https://github.com/user-attachments/assets/28d1ef66-3b9c-4151-9dda-f36d3451b978" /></a></td>
+      <td><a href="https://github.com/arzenik0s/latent-defect-test-lab"><img width="100" height="100" alt="holding-pattern-logo" title="Holding Pattern | Latent Defect Test Lab" src="https://github.com/user-attachments/assets/8799a24f-4317-4c67-8c55-0fe13709cc2b" />
+      <td><a href="https://github.com/arzenik0s/black-box-reader"><img width="100" height="100" alt="squawk-7700-logo" title="Squawk-7700 | Blackbox Reader" src="https://github.com/user-attachments/assets/cd3c92cc-35f9-469b-ae43-32aa4a4f2f6f" />
+      <td><a href="https://github.com/arzenik0s/3d-satellite-globe"><img width="100" height="100" alt="cleared-for-patch-logo" title="Cleared4Patch | Cyber Maturity & Risk Tracker" src="https://github.com/user-attachments/assets/16fd68b5-8efe-4d91-8a84-a0a9b50e9198" />
+</a></td>
+</a></td>
+      <td><a href="https://github.com/arzenik0s/3d-satellite-globe"><img width="100" height="100" alt="orbitlens-app-logo" title="Orbitlens | 3D Satellite Globe" src="https://github.com/user-attachments/assets/07e84aba-6df2-425b-9e6c-988c82a64a6a" /></a></td>
+      <td><a href="https://github.com/arzenik0s/job-application-tracking-agent"><img width="100" height="100" alt="job-goblin-app-logo" title="JobGoblin | Application Tracker" src="https://github.com/user-attachments/assets/07bf58f0-e579-404b-a6bd-435df3811633" /></a></td>
+</a></td>
     </tr>
     <tr align="center">
       <td><a href="https://github.com/arzenik0s/workforce-orchestration-agentic-system">KronOS</a></td>
-      <td><a href="https://github.com/arzenik0s/job-application-tracking-agent">JobGoblin 🔒︎</a></td>
+      <td><a href="https://github.com/arzenik0s/latent-defect-test-lab">Holding Pattern 🔒︎</a></td>
+      <td><a href="https://github.com/arzenik0s/black-box-reader">Squawk-7700 🔒︎</a></td>
+      <td><a href="https://github.com/arzenik0s/cleared-for-patch">Cleared4Patch 🔒︎</a></td>
       <td><a href="https://github.com/arzenik0s/3d-satellite-globe">Orbitlens 🔒︎</a></td>
-      <td><a href="https://github.com/arzenik0s/nightfall-game">Nightfall 🔒︎</a></td>
-      <td><a href="https://github.com/arzenik0s/eyeball-maze">Eyeball Maze 🔒︎</a></td>
+      <td><a href="https://github.com/arzenik0s/job-application-tracking-agent">JobGoblin 🔒︎</a></td>
     </tr>
   </table>
 
   ## 🧭 PROJECTS.highlight()
+  See my recent project highlights <a href="https://github.com/arzen1kos?tab=repositories&q=&type=source&language=&sort="><code>@arzen1kos</code></a>
 
   <table>
-    <tr>
-      <td width="100"><a href="https://github.com/arzen1kos/prostate-care"><img title="Prometheus | Prostate Care AI RAG Website" width="80" height="80" alt="prometheus-app-logo" src="https://github.com/user-attachments/assets/2a33a655-abf0-47b1-8439-e02193796613" /></a></td>
-      <td width="100"><a href="https://github.com/arzen1kos/music-catalogue"><img title="Music Catalogue CRUD Website" width="100" height="100" alt="music-catalogue" src="https://github.com/user-attachments/assets/ca1d94d3-5a93-4335-9596-fa1ecac3559a" /></a></td>
-      <td width="100"><a href="https://github.com/arzen1kos/chess-maze"><img title="Chess Maze Game" width="100" height="100" alt="chess-maze-logo" src="https://github.com/user-attachments/assets/bb8ca55f-4764-463c-93a3-1990c91b8486" /></a></td>
-      <td width="100"><a href="https://github.com/arzen1kos/music-catalogue"><img title="Sikad | Triathlon App" width="100" height="100" alt="sikad-triathlon-app-logo-agentic" src="https://github.com/user-attachments/assets/d98a7885-379e-4ba1-881d-3ff8394d9129" /></a></td>
+    <tr align="center">
+      <td width="120"><a href="https://github.com/arzen1kos/prostate-care"><img title="Prometheus | Prostate Care AI RAG Website" width="80" height="80" alt="prometheus-app-logo" src="https://github.com/user-attachments/assets/2a33a655-abf0-47b1-8439-e02193796613" /></a></td>
+      <td width="120"><a href="https://github.com/arzen1kos/music-catalogue"><img title="Music Catalogue CRUD Website" width="100" height="100" alt="music-catalogue" src="https://github.com/user-attachments/assets/ca1d94d3-5a93-4335-9596-fa1ecac3559a" /></a></td>
+      <td width="120"><a href="https://github.com/arzen1kos/chess-maze"><img title="Chess Maze Game" width="100" height="100" alt="chess-maze-logo" src="https://github.com/user-attachments/assets/bb8ca55f-4764-463c-93a3-1990c91b8486" /></a></td>
+      <td width="120"><a href="https://github.com/arzen1kos/triathlon-app"><img title="Sikad | Triathlon App" width="100" height="100" alt="sikad-triathlon-app-logo-agentic" src="https://github.com/user-attachments/assets/d98a7885-379e-4ba1-881d-3ff8394d9129" /></a></td>
+      <td width="120"><a href="https://github.com/arzen1kos/eyeball-maze"><img width="80" height="80" alt="eyeball-maze-logo" src="https://github.com/user-attachments/assets/671bd7fb-493b-414d-bbfc-fe08e747d965" /></a></td>
 </td>
     </tr>
     <tr align="center">
@@ -52,6 +59,7 @@
       <td><a href="https://github.com/arzen1kos/music-catalogue">Music Catalogue</a></td>
       <td><a href="https://github.com/arzen1kos/chess-maze">Chess Maze</a></td>
       <td><a href="https://github.com/arzen1kos/triathlon-app">Sikad</a></td>
+      <td><a href="https://github.com/arzen1kos/eyeball-maze">Eyeball Maze</a></td>
     </tr>
   </table>
   
@@ -79,7 +87,10 @@
       <td>
         <a href="https://www.cppreference.com/" title="C++"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cpp.png" alt="CPP" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>  
       </td>
-      <td><a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a></td>
+      <td>
+        <a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>
+        <a href="https://ruby-doc.org/" title="Ruby"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ruby.svg" alt="Ruby" width="25px" height="25px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>
+      </td>
     </tr>
     <tr>
     <tr>
@@ -160,7 +171,7 @@
   </table>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2041%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2036%20mins-blue?style=for-the-badge)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge)
 
@@ -170,18 +181,18 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Astro                    17 hrs 27 mins      ███████████░░░░░░░░░░░░░░   44.12 % 
-Markdown                 7 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-TypeScript               5 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-JSON                     2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-YAML                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Astro                    17 hrs 27 mins      ███████████░░░░░░░░░░░░░░   42.02 % 
+TypeScript               7 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Markdown                 7 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+JSON                     2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+CSS                      2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 
 🐱‍💻 Projects: 
-prostate-care            16 hrs 50 mins      ███████████░░░░░░░░░░░░░░   42.56 % 
-prostate-care-website    14 hrs              █████████░░░░░░░░░░░░░░░░   35.40 % 
-arsenie-portfolio        3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-portfolio                1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-arzenikos.github.io      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+prostate-care            16 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   40.54 % 
+prostate-care-website    14 hrs              ████████░░░░░░░░░░░░░░░░░   33.72 % 
+portfolio                4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+arsenie-portfolio        2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+arzenikos.github.io      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 **I Mostly Code in Python** 
@@ -196,7 +207,7 @@ Ruby                     1 repo              ██████░░░░░�
 
 
 
- Last Updated on 28/10/2026 17:42:02 UTC
+ Last Updated on 28/10/2026 02:16:15 UTC
 <!--END_SECTION:waka-->
 
   <br/>
