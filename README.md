@@ -145,24 +145,43 @@
   </table>
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2036%20mins-blue?style=for-the-badge)
 
-```txt
-From: 26 September 2026 - To: 26 October 2026
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge)
 
-Total Time: 71 hrs 45 mins
+📊 **This Week I Spent My Time On** 
 
-Astro                              19 hrs 10 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
-Markdown                           16 hrs 32 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
-TypeScript                         7 hrs 55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-JSON                               5 hrs 32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-CSS                                5 hrs 14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
-Other                              2 hrs 55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-C#                                 2 hrs 31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Git Config                         2 hrs 18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Bash                               2 hrs 6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-YAML                               1 hr 55 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+```text
+🕑︎ Time Zone: Pacific/Auckland
+
+💬 Programming Languages: 
+Astro                    17 hrs 27 mins      ███████████░░░░░░░░░░░░░░   42.02 % 
+TypeScript               7 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Markdown                 7 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+JSON                     2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+CSS                      2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+
+🐱‍💻 Projects: 
+prostate-care            16 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   40.54 % 
+prostate-care-website    14 hrs              ████████░░░░░░░░░░░░░░░░░   33.72 % 
+portfolio                4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+arsenie-portfolio        2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+arzenikos.github.io      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
+**I Mostly Code in Python** 
+
+```text
+Python                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Astro                    1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Ruby                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+```
+
+
+
+
+ Last Updated on 28/10/2026 01:06:26 UTC
 <!--END_SECTION:waka-->
 
   <br/>
