@@ -22,12 +22,11 @@
 
   <table>
     <tr>
-      <td><img width="100" height="100" alt="kronos-app-logo" src="https://github.com/user-attachments/assets/52d4ec59-129a-4127-9c12-8be466fa8d49" /></td>
-      <td><img width="100" height="100" alt="job-goblin-app-logo" src="https://github.com/user-attachments/assets/07bf58f0-e579-404b-a6bd-435df3811633" /></td>
-      <td><img width="100" height="100" alt="orbitlens-app-logo" src="https://github.com/user-attachments/assets/07e84aba-6df2-425b-9e6c-988c82a64a6a" /></td>
-      <td><img width="100" height="100" alt="nightfall-app-logo" src="https://github.com/user-attachments/assets/57853555-6ab6-4c8e-ae0a-e1b37a03b0a7" />
-      <td><img width="100" height="100" alt="eyeball-maze-logo" src="https://github.com/user-attachments/assets/671bd7fb-493b-414d-bbfc-fe08e747d965" /></td>
-</td>
+      <td><a href="https://github.com/arzenik0s/workforce-orchestration-agentic-system"><img width="100" height="100" alt="kronos-app-logo" src="https://github.com/user-attachments/assets/52d4ec59-129a-4127-9c12-8be466fa8d49" /></a></td>
+      <td><a href="https://github.com/arzenik0s/job-application-tracking-agent"><img width="100" height="100" alt="job-goblin-app-logo" src="https://github.com/user-attachments/assets/07bf58f0-e579-404b-a6bd-435df3811633" /></a></td>
+      <td><a href="https://github.com/arzenik0s/3d-satellite-globe"><img width="100" height="100" alt="orbitlens-app-logo" src="https://github.com/user-attachments/assets/07e84aba-6df2-425b-9e6c-988c82a64a6a" /></a></td>
+      <td><a href="https://github.com/arzenik0s/nightfall-game"><img width="100" height="100" alt="nightfall-app-logo" src="https://github.com/user-attachments/assets/57853555-6ab6-4c8e-ae0a-e1b37a03b0a7" /></a></td>
+      <td><a href="https://github.com/arzenik0s/eyeball-maze"><img width="100" height="100" alt="eyeball-maze-logo" src="https://github.com/user-attachments/assets/671bd7fb-493b-414d-bbfc-fe08e747d965" /></a></td>
     </tr>
     <tr align="center">
       <td><a href="https://github.com/arzenik0s/workforce-orchestration-agentic-system">KronOS</a></td>
