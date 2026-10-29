@@ -166,10 +166,6 @@
   </table>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2040%20mins-blue?style=for-the-badge)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -203,7 +199,7 @@ Java                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 18:11:48 UTC
+ Last Updated on 29/10/2026 22:29:40 UTC
 <!--END_SECTION:waka-->
 
   <br/>
