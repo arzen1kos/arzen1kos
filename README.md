@@ -21,7 +21,7 @@
   See my current projects & experiments in my sandbox account <a href="https://github.com/arzenik0s?tab=repositories&q=&type=source&language=&sort="><code>@arzenik0s</code></a>
 
   <table>
-    <tr>
+    <tr align="center">
       <td><a href="https://github.com/arzenik0s/workforce-orchestration-agentic-system"><img width="100" height="100" alt="kronos-app-logo" title="Kronos | Roster Orchestration Agent" src="https://github.com/user-attachments/assets/28d1ef66-3b9c-4151-9dda-f36d3451b978" /></a></td>
       <td><a href="https://github.com/arzenik0s/latent-defect-test-lab"><img width="100" height="100" alt="holding-pattern-logo" title="Holding Pattern | Latent Defect Test Lab" src="https://github.com/user-attachments/assets/ee245490-ca4c-49ed-b678-a9fff7ecfbe6" /></a></td>
       <td><a href="https://github.com/arzenik0s/3d-satellite-globe"><img width="100" height="100" alt="orbitlens-app-logo" title="Orbitlens | 3D Satellite Globe" src="https://github.com/user-attachments/assets/07e84aba-6df2-425b-9e6c-988c82a64a6a" /></a></td>
