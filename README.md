@@ -166,6 +166,44 @@
   </table>
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2040%20mins-blue?style=for-the-badge)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Pacific/Auckland
+
+💬 Programming Languages: 
+Astro                    17 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   40.98 % 
+Markdown                 9 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+TypeScript               4 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+JSON                     2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+YAML                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+
+🐱‍💻 Projects: 
+prostate-care            16 hrs 51 mins      ██████████░░░░░░░░░░░░░░░   39.50 % 
+prostate-care-website    13 hrs 59 mins      ████████░░░░░░░░░░░░░░░░░   32.76 % 
+arsenie-portfolio        3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+draft-project-knights-tal1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+triathlon-app            1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+C#                       2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Astro                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+```
+
+
+
+
+ Last Updated on 29/10/2026 18:11:48 UTC
 <!--END_SECTION:waka-->
 
   <br/>
