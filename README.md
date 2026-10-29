@@ -189,14 +189,19 @@ portfolio                1 hr 37 mins        █░░░░░░░░░░�
 arzenikos.github.io      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 ```
 
-```text
+**I Mostly Code in Python** 
 
+```text
+Python                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Astro                    1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Ruby                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
 
 
 
- Last Updated on 29/10/2026 00:24:36 UTC
+ Last Updated on 29/10/2026 03:38:36 UTC
 <!--END_SECTION:waka-->
 
   <br/>
