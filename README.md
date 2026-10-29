@@ -151,6 +151,7 @@
   <br/>
 
   ## ⚡XP.track()
+  <img src="https://wakatime.com/badge/user/3910b913-0dfd-47ae-9811-a0e5e332f3e7.svg?style=for-the-badge">
 
   <table>
     <tr align="center">
@@ -165,44 +166,6 @@
   </table>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2041%20mins-blue?style=for-the-badge)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Pacific/Auckland
-
-💬 Programming Languages: 
-Astro                    17 hrs 27 mins      ███████████░░░░░░░░░░░░░░   44.12 % 
-Markdown                 7 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-TypeScript               5 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-JSON                     2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-YAML                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-
-🐱‍💻 Projects: 
-prostate-care            16 hrs 50 mins      ███████████░░░░░░░░░░░░░░   42.56 % 
-prostate-care-website    14 hrs              █████████░░░░░░░░░░░░░░░░   35.40 % 
-arsenie-portfolio        3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-portfolio                1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-arzenikos.github.io      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Astro                    1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C#                       1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Java                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-```
-
-
-
-
- Last Updated on 29/10/2026 10:35:02 UTC
 <!--END_SECTION:waka-->
 
   <br/>
