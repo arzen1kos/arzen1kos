@@ -23,11 +23,7 @@
   <table>
     <tr>
       <td><a href="https://github.com/arzenik0s/workforce-orchestration-agentic-system"><img width="100" height="100" alt="kronos-app-logo" title="Kronos | Roster Orchestration Agent" src="https://github.com/user-attachments/assets/28d1ef66-3b9c-4151-9dda-f36d3451b978" /></a></td>
-      <td><a href="https://github.com/arzenik0s/latent-defect-test-lab"><img width="100" height="100" alt="holding-pattern-logo" title="Holding Pattern | Latent Defect Test Lab" src="https://github.com/user-attachments/assets/8799a24f-4317-4c67-8c55-0fe13709cc2b" />
-      <td><a href="https://github.com/arzenik0s/black-box-reader"><img width="100" height="100" alt="squawk-7700-logo" title="Squawk-7700 | Blackbox Reader" src="https://github.com/user-attachments/assets/cd3c92cc-35f9-469b-ae43-32aa4a4f2f6f" />
-      <td><a href="https://github.com/arzenik0s/3d-satellite-globe"><img width="100" height="100" alt="cleared-for-patch-logo" title="Cleared4Patch | Cyber Maturity & Risk Tracker" src="https://github.com/user-attachments/assets/16fd68b5-8efe-4d91-8a84-a0a9b50e9198" />
-</a></td>
-</a></td>
+      <td><a href="https://github.com/arzenik0s/latent-defect-test-lab"><img width="100" height="100" alt="holding-pattern-logo" title="Holding Pattern | Latent Defect Test Lab" src="https://github.com/user-attachments/assets/ee245490-ca4c-49ed-b678-a9fff7ecfbe6" /></a></td>
       <td><a href="https://github.com/arzenik0s/3d-satellite-globe"><img width="100" height="100" alt="orbitlens-app-logo" title="Orbitlens | 3D Satellite Globe" src="https://github.com/user-attachments/assets/07e84aba-6df2-425b-9e6c-988c82a64a6a" /></a></td>
       <td><a href="https://github.com/arzenik0s/job-application-tracking-agent"><img width="100" height="100" alt="job-goblin-app-logo" title="JobGoblin | Application Tracker" src="https://github.com/user-attachments/assets/07bf58f0-e579-404b-a6bd-435df3811633" /></a></td>
 </a></td>
@@ -35,8 +31,6 @@
     <tr align="center">
       <td><a href="https://github.com/arzenik0s/workforce-orchestration-agentic-system">KronOS</a></td>
       <td><a href="https://github.com/arzenik0s/latent-defect-test-lab">Holding Pattern 🔒︎</a></td>
-      <td><a href="https://github.com/arzenik0s/black-box-reader">Squawk-7700 🔒︎</a></td>
-      <td><a href="https://github.com/arzenik0s/cleared-for-patch">Cleared4Patch 🔒︎</a></td>
       <td><a href="https://github.com/arzenik0s/3d-satellite-globe">Orbitlens 🔒︎</a></td>
       <td><a href="https://github.com/arzenik0s/job-application-tracking-agent">JobGoblin 🔒︎</a></td>
     </tr>
@@ -171,7 +165,7 @@
   </table>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2036%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2041%20mins-blue?style=for-the-badge)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge)
 
@@ -181,33 +175,28 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Astro                    17 hrs 27 mins      ███████████░░░░░░░░░░░░░░   42.02 % 
-TypeScript               7 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Markdown                 7 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-JSON                     2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-CSS                      2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Astro                    17 hrs 27 mins      ███████████░░░░░░░░░░░░░░   44.12 % 
+Markdown                 7 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+TypeScript               5 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+JSON                     2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+YAML                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 🐱‍💻 Projects: 
-prostate-care            16 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   40.54 % 
-prostate-care-website    14 hrs              ████████░░░░░░░░░░░░░░░░░   33.72 % 
-portfolio                4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-arsenie-portfolio        2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-arzenikos.github.io      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+prostate-care            16 hrs 50 mins      ███████████░░░░░░░░░░░░░░   42.56 % 
+prostate-care-website    14 hrs              █████████░░░░░░░░░░░░░░░░   35.40 % 
+arsenie-portfolio        3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+portfolio                1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+arzenikos.github.io      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 ```
-
-**I Mostly Code in Python** 
 
 ```text
-Python                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Astro                    1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Ruby                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+
 ```
 
 
 
 
- Last Updated on 28/10/2026 02:16:15 UTC
+ Last Updated on 29/10/2026 00:24:36 UTC
 <!--END_SECTION:waka-->
 
   <br/>
