@@ -172,18 +172,18 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Astro                    17 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   40.98 % 
-Markdown                 9 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-TypeScript               4 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-JSON                     2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-YAML                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Astro                    16 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   39.15 % 
+Markdown                 9 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+TypeScript               5 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+CSS                      2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+JSON                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 🐱‍💻 Projects: 
-prostate-care            16 hrs 51 mins      ██████████░░░░░░░░░░░░░░░   39.50 % 
-prostate-care-website    13 hrs 59 mins      ████████░░░░░░░░░░░░░░░░░   32.76 % 
-arsenie-portfolio        3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-draft-project-knights-tal1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-triathlon-app            1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+prostate-care            16 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   39.21 % 
+prostate-care-website    8 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+arsenie-portfolio        3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+arzen1kos.github.io      3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+roster-orchestration-engi1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -199,7 +199,7 @@ Java                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 11:00:05 UTC
+ Last Updated on 30/10/2026 11:00:27 UTC
 <!--END_SECTION:waka-->
 
   <br/>
