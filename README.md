@@ -152,18 +152,9 @@
 
   ## ⚡XP.track()
   <img src="https://wakatime.com/badge/user/3910b913-0dfd-47ae-9811-a0e5e332f3e7.svg?style=for-the-badge">
-
-  <table>
-    <tr align="center">
-      <td><img src="https://github-stats-extended.vercel.app/api?username=arzen1kos&rank_icon=github&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent&card_height=200">
-      </td>
-      <td>
-      <img src="https://streak-stats.demolab.com?user=arzen1kos&theme=transparent&hide_border=true&short_numbers=true&mode=weekly&card_height=180">
-      </td>
-      <td><img src="https://github-stats-extended.vercel.app/api/top-langs?username=arzen1kos&layout=donut&langs_count=4&theme=transparent">
-      </td>
-    </tr>
-  </table>
+  
+  <br/>
+  <br/>
     
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
