@@ -83,14 +83,14 @@
       </td>
       <td>
         <a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>
-        <a href="https://ruby-doc.org/" title="Ruby"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ruby.svg" alt="Ruby" width="25px" height="25px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>
+        <a href="https://ruby-doc.org/" title="Ruby"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ruby.svg" alt="Ruby" width="25px" height="25px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>  <a href="https://dart.dev/docs" title="Dart"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dart.svg" alt="Dart" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>
       </td>
     </tr>
     <tr>
     <tr>
       <td>Front-end Engineering</td>
       <td>
-        <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>  <a href="https://vitejs.dev/" title="Vite"><img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" alt="Vite" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>  <a href="https://astro.build/" title="Astro"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/astro.svg" alt="Astro" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>
+        <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>  <a href="https://vitejs.dev/" title="Vite"><img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" alt="Vite" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>  <a href="https://astro.build/" title="Astro"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/astro.svg" alt="Astro" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>
       </td>
       <td><a href="https://angular.io/" title="Angular"><img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="Angular" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>  </td>
       <td>  <a href="https://d3js.org/" title="D3"><img src="https://github.com/get-icon/geticon/raw/master/icons/d3.svg" alt="D3" width="35px" height="35px" style="background:#082f20;padding:4px;border-radius:8px;display:inline-block;"></a></td>
@@ -133,19 +133,19 @@
       <td><a href="https://kubernetes.io/" title="Kubernetes"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/kubernetes.svg" alt="Kubernetes" width="35px" height="35px" style="background:#ffffff;padding:4px;border-radius:8px;display:inline-block;"></a>  <a href="https://developer.hashicorp.com/terraform" title="Terraform"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/terraform.svg" alt="Terraform" width="35px" height="35px" style="background:#ffffff;padding:4px;border-radius:8px;display:inline-block;"></a></td>
     </tr>
     <tr>
-      <td>Workflow & Design</td>
-      <td>  <a href="https://figma.com/" title="Figma"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/figma.svg" alt="" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>  <a href="https://www.blender.org/" title="Blender"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/blender.svg" alt="" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>  <a href="https://www.atlassian.com/software/jira" title="Jira"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jira.svg" alt="Jira" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a></td>
+      <td>Workflow & UI/UX Design</td>
+      <td><a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>  <a href="https://figma.com/" title="Figma"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/figma.svg" alt="" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>  <a href="https://www.blender.org/" title="Blender"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/blender.svg" alt="" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>  <a href="https://threejs.org/" title="Three.js"><img src="https://cdn.simpleicons.org/threedotjs/000000" alt="Three.js" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a></td>
       <td>  <a href="https://penpot.app/" title="Penpot"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot.svg" alt="Penpot" width="35px" height="35px" style="background:#ffffff;padding:4px;border-radius:8px;display:inline-block;"></a></td>
-      <td></td>
+      <td>  <a href="https://docs.flutter.dev/" title="Flutter"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/flutter.svg" alt="Flutter" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a></td>
     </tr>
     <tr>
       <td>Power Platform</td>
       <td>  <a href="https://www.microsoft.com/en-us/power-platform/products/power-automate" title="Microsoft Power Automate"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-power-automate.svg" alt="" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>  <a href="https://www.microsoft.com/en-us/power-platform/products/power-apps/" title="Microsoft Power Apps"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Powerapps-logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>  <a href="https://www.microsoft.com/en-us/power-platform/dataverse" title="Microsoft Dataverse"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-dataverse.svg" alt="" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>
-</td>
-      <td></td>
-      <td></td>
-    </tr>
-  </table>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 
   <br/>
