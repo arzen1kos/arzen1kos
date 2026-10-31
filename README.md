@@ -163,18 +163,18 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Astro                    16 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   39.15 % 
-Markdown                 9 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-TypeScript               5 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-CSS                      2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-JSON                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Astro                    13 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   30.80 % 
+Markdown                 10 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+TypeScript               7 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+CSS                      2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+JSON                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 
 🐱‍💻 Projects: 
-prostate-care            16 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   39.21 % 
-prostate-care-website    8 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-arsenie-portfolio        3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-arzen1kos.github.io      3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-roster-orchestration-engi1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+prostate-care            16 hrs 37 mins      █████████░░░░░░░░░░░░░░░░   36.71 % 
+arzen1kos.github.io      11 hrs 24 mins      ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+arsenie-portfolio        3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+prostate-care-website    2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+roster-orchestration-engi1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -190,7 +190,7 @@ Java                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 04:39:16 UTC
+ Last Updated on 31/10/2026 16:59:07 UTC
 <!--END_SECTION:waka-->
 
   <br/>
