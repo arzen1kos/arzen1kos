@@ -163,34 +163,34 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Astro                    13 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   30.80 % 
-Markdown                 10 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-TypeScript               7 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-CSS                      2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-JSON                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Markdown                 11 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+TypeScript               9 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Astro                    6 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+YAML                     2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+CSS                      2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 🐱‍💻 Projects: 
-prostate-care            16 hrs 37 mins      █████████░░░░░░░░░░░░░░░░   36.71 % 
-arzen1kos.github.io      11 hrs 24 mins      ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
-arsenie-portfolio        3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-prostate-care-website    2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-roster-orchestration-engi1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+arzen1kos.github.io      18 hrs 23 mins      ███████████░░░░░░░░░░░░░░   43.62 % 
+prostate-care            8 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+arsenie-portfolio        3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+roster-orchestration-engi1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+draft-project-knights-tal1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-C#                       2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Astro                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+C#                       2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Astro                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
 
 
- Last Updated on 01/11/2026 17:45:29 UTC
+ Last Updated on 02/11/2026 04:59:44 UTC
 <!--END_SECTION:waka-->
 
   <br/>
