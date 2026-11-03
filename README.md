@@ -163,18 +163,18 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Markdown                 11 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-TypeScript               9 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-Astro                    6 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-YAML                     2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-CSS                      2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+TypeScript               10 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+Markdown                 10 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   26.28 % 
+YAML                     2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+CSS                      2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Bash                     2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 🐱‍💻 Projects: 
-arzen1kos.github.io      18 hrs 23 mins      ███████████░░░░░░░░░░░░░░   43.62 % 
-prostate-care            8 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-arsenie-portfolio        3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-roster-orchestration-engi1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-draft-project-knights-tal1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+arzen1kos.github.io      23 hrs 46 mins      ████████████████░░░░░░░░░   62.02 % 
+arsenie-portfolio        3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+roster-orchestration-engi1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+draft-project-knights-tal1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+triathlon-app            1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -190,7 +190,7 @@ Java                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 02/11/2026 21:30:27 UTC
+ Last Updated on 03/11/2026 05:49:25 UTC
 <!--END_SECTION:waka-->
 
   <br/>
