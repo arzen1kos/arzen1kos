@@ -163,34 +163,34 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-TypeScript               10 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-Markdown                 10 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-YAML                     2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-CSS                      2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Bash                     2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+TypeScript               10 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   40.90 % 
+Markdown                 2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+CSS                      2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+JavaScript               1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Astro                    1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
 
 🐱‍💻 Projects: 
-arzen1kos.github.io      23 hrs 46 mins      ████████████████░░░░░░░░░   62.02 % 
-arsenie-portfolio        3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-roster-orchestration-engi1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-draft-project-knights-tal1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-triathlon-app            1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+arzen1kos.github.io      20 hrs 21 mins      ████████████████████░░░░░   81.55 % 
+obsidian-job-application-1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+job-application-tracking-48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+oarbit-mobile-app        37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+nzsl-gesture-recognition 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-C#                       2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Astro                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+C#                       2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Astro                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
 
 
- Last Updated on 03/11/2026 19:14:49 UTC
+ Last Updated on 06/11/2026 21:54:33 UTC
 <!--END_SECTION:waka-->
 
   <br/>
