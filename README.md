@@ -163,18 +163,18 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-TypeScript               10 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   40.90 % 
-Markdown                 2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-CSS                      2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-JavaScript               1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Astro                    1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Markdown                 3 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   39.21 % 
+TypeScript               1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+CSS                      1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+JSON                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🐱‍💻 Projects: 
-arzen1kos.github.io      20 hrs 21 mins      ████████████████████░░░░░   81.55 % 
-obsidian-job-application-1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-job-application-tracking-48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-oarbit-mobile-app        37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-nzsl-gesture-recognition 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+job-application-tracking-4 hrs 6 mins        █████████████░░░░░░░░░░░░   50.34 % 
+workout-rep-manager      2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+Notion-Clone-7           1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+draft-project-whakaara   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+draft-project-kafka      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -190,7 +190,7 @@ Astro                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2026 21:54:33 UTC
+ Last Updated on 14/11/2026 07:21:54 UTC
 <!--END_SECTION:waka-->
 
   <br/>
