@@ -26,13 +26,14 @@
       <td><a href="https://github.com/arzenik0s/latent-defect-test-lab"><img width="100" height="100" alt="holding-pattern-logo" title="Holding Pattern | Latent Defect Test Lab" src="https://github.com/user-attachments/assets/ee245490-ca4c-49ed-b678-a9fff7ecfbe6" /></a></td>
       <td><a href="https://github.com/arzenik0s/3d-satellite-globe"><img width="100" height="100" alt="orbitlens-app-logo" title="Orbitlens | 3D Satellite Globe" src="https://github.com/user-attachments/assets/07e84aba-6df2-425b-9e6c-988c82a64a6a" /></a></td>
       <td><a href="https://github.com/arzenik0s/job-application-tracking-agent"><img width="100" height="100" alt="job-goblin-app-logo" title="JobGoblin | Application Tracker" src="https://github.com/user-attachments/assets/07bf58f0-e579-404b-a6bd-435df3811633" /></a></td>
-</a></td>
+      <td><a href="https://github.com/arzenik0s/workout-rep-manager"><img width="100" height="100" alt="workout-rep-manager-logo" title="Reppin | Workout Rep Manager" src="https://github.com/user-attachments/assets/533567b9-dc44-4f3d-a980-f58faa22e6f1" /></a></td>
     </tr>
     <tr align="center">
       <td><a href="https://github.com/arzenik0s/workforce-orchestration-agentic-system">KronOS</a></td>
       <td><a href="https://github.com/arzenik0s/latent-defect-test-lab">Holding Pattern 🔒︎</a></td>
       <td><a href="https://github.com/arzenik0s/3d-satellite-globe">Orbitlens 🔒︎</a></td>
       <td><a href="https://github.com/arzenik0s/job-application-tracking-agent">JobGoblin 🔒︎</a></td>
+      <td><a href="https://github.com/arzenik0s/workout-rep-manager">Reppin 🔒︎</a></td>
     </tr>
   </table>
 
@@ -46,6 +47,7 @@
       <td width="120"><a href="https://github.com/arzen1kos/chess-maze"><img title="Chess Maze Game" width="100" height="100" alt="chess-maze-logo" src="https://github.com/user-attachments/assets/bb8ca55f-4764-463c-93a3-1990c91b8486" /></a></td>
       <td width="120"><a href="https://github.com/arzen1kos/triathlon-app"><img title="Sikad | Triathlon App" width="100" height="100" alt="sikad-triathlon-app-logo-agentic" src="https://github.com/user-attachments/assets/d98a7885-379e-4ba1-881d-3ff8394d9129" /></a></td>
       <td width="120"><a href="https://github.com/arzen1kos/eyeball-maze"><img width="80" height="80" alt="eyeball-maze-logo" src="https://github.com/user-attachments/assets/671bd7fb-493b-414d-bbfc-fe08e747d965" /></a></td>
+      <td width="120"><a href="https://github.com/arzen1kos/oarbit-mobile-app"><img width="80" height="80" alt="oarbit-app-logo" src="https://github.com/user-attachments/assets/877c7cd7-091a-413a-a00c-e1cbb713fe4b" /></a></td>
 </td>
     </tr>
     <tr align="center">
@@ -54,6 +56,7 @@
       <td><a href="https://github.com/arzen1kos/chess-maze">Chess Maze</a></td>
       <td><a href="https://github.com/arzen1kos/triathlon-app">Sikad</a></td>
       <td><a href="https://github.com/arzen1kos/eyeball-maze">Eyeball Maze</a></td>
+      <td><a href="https://github.com/arzen1kos/oarbit-mobile-app">OarBit</a></td>
     </tr>
   </table>
   
