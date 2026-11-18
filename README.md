@@ -18,18 +18,20 @@
   ────────── ⋆⋅~⟢~⋅⋆ ──────────
 
   ## 🧭 ACTIVE_QUEST.log()
-  See my current projects & experiments in my sandbox account <a href="https://github.com/arzenik0s?tab=repositories&q=&type=source&language=&sort="><code>@arzenik0s</code></a>
+  See my projects-under-development in my sandbox account <a href="https://github.com/arzenik0s?tab=repositories&q=&type=source&language=&sort="><code>@arzenik0s</code></a>
 
   <table>
     <tr align="center">
-      <td><a href="https://github.com/arzenik0s/workforce-orchestration-agentic-system"><img width="100" height="100" alt="kronos-app-logo" title="Kronos | Roster Orchestration Agent" src="https://github.com/user-attachments/assets/28d1ef66-3b9c-4151-9dda-f36d3451b978" /></a></td>
+      <td><a href="https://github.com/arzenik0s/roster-orchestration-engine"><img width="100" height="100" alt="kronos-app-logo" title="Kronos | Roster Orchestration Agent" src="https://github.com/user-attachments/assets/28d1ef66-3b9c-4151-9dda-f36d3451b978" /></a></td>
+      <td><a href="https://github.com/arzenik0s/nzsl-gesture-recognition"><img width="100" height="100" alt="nzsl-gesture-recognition-logo" title="Tūtohu | NZSL Gesture Recognition" src="https://github.com/user-attachments/assets/749884d8-ff11-4022-a8ff-ff8f701a8671" /></a></td>
       <td><a href="https://github.com/arzenik0s/latent-defect-test-lab"><img width="100" height="100" alt="holding-pattern-logo" title="Holding Pattern | Latent Defect Test Lab" src="https://github.com/user-attachments/assets/ee245490-ca4c-49ed-b678-a9fff7ecfbe6" /></a></td>
       <td><a href="https://github.com/arzenik0s/3d-satellite-globe"><img width="100" height="100" alt="orbitlens-app-logo" title="Orbitlens | 3D Satellite Globe" src="https://github.com/user-attachments/assets/07e84aba-6df2-425b-9e6c-988c82a64a6a" /></a></td>
       <td><a href="https://github.com/arzenik0s/job-application-tracking-agent"><img width="100" height="100" alt="job-goblin-app-logo" title="JobGoblin | Application Tracker" src="https://github.com/user-attachments/assets/07bf58f0-e579-404b-a6bd-435df3811633" /></a></td>
       <td><a href="https://github.com/arzenik0s/workout-rep-manager"><img width="100" height="100" alt="workout-rep-manager-logo" title="Reppin | Workout Rep Manager" src="https://github.com/user-attachments/assets/533567b9-dc44-4f3d-a980-f58faa22e6f1" /></a></td>
     </tr>
     <tr align="center">
-      <td><a href="https://github.com/arzenik0s/workforce-orchestration-agentic-system">KronOS</a></td>
+      <td><a href="https://github.com/arzenik0s/roster-orchestration-engine">KronOS</a></td>
+      <td><a href="https://github.com/arzenik0s/nzsl-gesture-recognition">Tūtohu</a></td>
       <td><a href="https://github.com/arzenik0s/latent-defect-test-lab">Holding Pattern 🔒︎</a></td>
       <td><a href="https://github.com/arzenik0s/3d-satellite-globe">Orbitlens 🔒︎</a></td>
       <td><a href="https://github.com/arzenik0s/job-application-tracking-agent">JobGoblin 🔒︎</a></td>
@@ -38,7 +40,7 @@
   </table>
 
   ## 🧭 PROJECTS.highlight()
-  See my recent project highlights <a href="https://github.com/arzen1kos?tab=repositories&q=&type=source&language=&sort="><code>@arzen1kos</code></a>
+  See my school project highlights <a href="https://github.com/arzen1kos?tab=repositories&q=&type=source&language=&sort="><code>@arzen1kos</code></a>
 
   <table>
     <tr align="center">
