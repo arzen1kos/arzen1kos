@@ -168,26 +168,26 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Markdown                 3 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   39.21 % 
-TypeScript               1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-CSS                      1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-JSON                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Markdown                 4 hrs 35 mins       ███████████░░░░░░░░░░░░░░   43.92 % 
+C++                      1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+CMake                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+YAML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+JavaScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 🐱‍💻 Projects: 
-job-application-tracking-4 hrs 6 mins        █████████████░░░░░░░░░░░░   50.34 % 
-workout-rep-manager      2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-Notion-Clone-7           1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-draft-project-whakaara   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-draft-project-kafka      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+roster-orchestration-engi6 hrs 42 mins       ████████████████░░░░░░░░░   64.19 % 
+roster-wizard            2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+draft-project-kronos-agen44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+job-application-tracker  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+sheet-views              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-C#                       2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 Astro                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
@@ -195,7 +195,7 @@ Astro                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2026 07:21:54 UTC
+ Last Updated on 20/11/2026 22:55:26 UTC
 <!--END_SECTION:waka-->
 
   <br/>
